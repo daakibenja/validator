@@ -1,0 +1,12 @@
+{
+    "name": "codelords/validator",
+    "description": "A light weight data validator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daaki Benjamin",
+            "email": "richarddaaki4@gmail.com"
+        }
+    ],
+    "require": {}
+}
